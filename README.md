@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @adityasharma3515
-- 🌱 I’m currently learning full stack development.
+- 🌱 ML and DS enthusiast.
 - 💞️ I’m looking to collaborate on any project related to my field.
 - 📫 How to reach me: by my twitter @aditya_3515
 
